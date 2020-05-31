@@ -1,2 +1,2 @@
 # ML-Iris-Flower-Classification
-Testing Various Machine Learning Algorithms wiht SkLearn
+Testing Various Machine Learning Algorithms with SkLearn
